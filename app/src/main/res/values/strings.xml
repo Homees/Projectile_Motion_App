@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Zadanie_1</string>
+    <string name="angleEditText">Zadajte uhol letu</string>
+    <string name="speedEditText">Zadajte rýchlosť letu</string>
+    <string name="submitButton">Odoslať</string>
+    <string name="xPlaceholder">Objekt doletel</string>
+    <string name="serverPlaceholder">Použitie serveru</string>
+    <string name="timePlaceholder">Čas letu</string>
+    <string name="coordinate_X">Suradnica X</string>
+    <string name="coordinate_Y">suradnica Y</string>
+    <string name="list_of_coordinates">List súradníc letu</string>
+    <string name="graph_of_coordinates">Graf letu</string>
+    <string name="projectile_animation">Animácia letu</string>
+    <string name="star_image">star image vector</string>
+    <string name="online">online</string>
+    <string name="maxHeight">Najvyšší bod letu</string>
+    <string name="progress_value">Hodnota uhlu</string>
+</resources>
